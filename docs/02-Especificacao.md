@@ -9,6 +9,7 @@ Nesta seção são apresentadas as personas, histórias de usuários, requisitos
 ## Modelo de negócio (*Business Model Canvas*)
 
 O *Business Model Canvas* (BMC) é uma ferramenta de planejamento estratégico que descreve, de forma visual e integrada, como uma organização cria, entrega e captura valor.  
+
 No contexto deste projeto, o BMC auxilia no alinhamento da equipe em relação aos aspectos essenciais do negócio, servindo como base para decisões técnicas, de design e de priorização de funcionalidades.  
 
 A seguir, apresenta-se um exemplo que deve ser adaptado pelo grupo de acordo com as características do projeto.  
