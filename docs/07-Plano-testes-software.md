@@ -29,6 +29,15 @@ Por exemplo:
 | Responsável pela elaboração do caso de teste | Nome do integrante da equipe. |
 
 
+| **Caso de teste** | **CT-004 – Visualizar perfil do usuário** |
+|:---:|:---:|
+| **Requisito associado** | RF-009 – O sistema deve permitir que o produtor faça o upload de selos/certificações orgânicas vinculadas ao seu perfil. <br> RNF-001 – Responsividade. <br> RNF-007 – Persistência de Dados. |
+| **Objetivo do teste** | Verificar se o usuário consegue acessar seu perfil e visualizar corretamente suas informações pessoais e dados relacionados à sua conta. |
+| **Passos** | - Acessar o navegador.<br>- Informar o endereço da aplicação.<br>- Realizar login com uma conta cadastrada.<br>- Acessar a opção de perfil.<br>- Verificar as informações pessoais apresentadas.<br>- Verificar as informações e estatísticas da conta.<br>- Verificar as opções de gerenciamento disponíveis.<br>- Caso seja um Ofertante, verificar a opção de visualização ou gerenciamento de certificações orgânicas. |
+| **Critério de êxito** | - O perfil é apresentado corretamente.<br>- As informações exibidas correspondem ao usuário autenticado.<br>- As opções de gerenciamento são apresentadas adequadamente.<br>- As informações permanecem associadas à conta correta. |
+| **Responsável pela elaboração do caso de teste** | Nome do integrante da equipe. |
+
+
 ## Ferramentas de testes (opcional)
 
 Comente sobre as ferramentas de testes utilizadas.
